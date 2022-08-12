@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: Source Sans Pro;
+}
 nav{
     background-color: #207398;
     padding-bottom: 80px;
@@ -78,7 +81,7 @@ margin-right: 300px;
     background-color: white;
 }
 .nav8>input{
-    padding: 10px 40px;
+    padding: 10px 30px;
     border: white;
 }
 .nav8>button{
